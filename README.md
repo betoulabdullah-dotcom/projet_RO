@@ -27,3 +27,6 @@ Optimisation des tournées des camions d’eau.
 ## Fichiers
 - Notebook Python (.ipynb)
 - Rapport PDF
+- ## 🎥 Démonstration du projet
+https://www.loom.com/share/20c6b64066ff44479a050c66f634b612
+
